@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning TypeScript, Rust
 - 📫 How to reach me: [Bilibili](https://space.bilibili.com/26632851), [Zhihu](https://www.zhihu.com/people/xqm32)
-- ⚡ Fun fact: The number 32 means my birthday.
+- ⚡ Fun fact: The number 32 means my birthday
