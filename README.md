@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning TypeScript, Rust
 - 📫 How to reach me: [Bilibili](https://space.bilibili.com/26632851), [Zhihu](https://www.zhihu.com/people/xqm32)
-- ⚡ Fun fact: Most of my commits are absolutely 💧
+- 📕 Here’s my blog: [Qiming's Blog](https://xqm32.org) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xqm32&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xqm32&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xqm32&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xqm32&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xqm32&theme=github)
